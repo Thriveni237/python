@@ -1,0 +1,10 @@
+print("Hello world")
+print()
+a,b,c = 10,20,30
+print("The Values are:",a,b,c)
+print("Hello")
+print("Honey")
+print("Hi")
+print("Hello",end=' ')
+print("Honey",end = ' ')
+print("Hi",end=' ')
