@@ -1,6 +1,4 @@
-# ===== BASIC PYTHON PROGRAMS 07-30 =====
-# This file contains programs 07 through 30
-# Each program is separated by comments
+
 
 # ===== 07: Square Root Program =====
 import math
